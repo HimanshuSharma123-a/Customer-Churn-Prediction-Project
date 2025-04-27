@@ -21,3 +21,19 @@ This project focuses on predicting customer churn for a telecommunications compa
 - **Scripts/**: Python scripts for cleaning, preprocessing, and modeling.
 - **Visualizations/**: Graphs and charts generated during the project.
 
+![Image 1](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/1.png)
+![Image 2](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/2.png)
+![Image 3](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/3.png)
+![Image 4](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/4.png)
+![Image 5](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/5.png)
+![Image 6](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/6.png)
+![Image 7](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/7.png)
+![Image 8](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/8.png)
+![Image 9](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/1.png)
+![Image 10](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/2.png)
+![Image 11](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/3.png)
+![Image 12](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/4.png)
+![Image 13](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/5.png)
+![Image 14](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/6.png)
+
+
